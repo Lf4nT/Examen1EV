@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Ejercicio5 {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int[] unidades = { 500, 200, 100, 50, 20, 10, 5, 2, 1 };
 		Scanner s = new Scanner(System.in);
